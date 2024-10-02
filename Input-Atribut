@@ -1,0 +1,9 @@
+Input Attribute
+
+HTML Form mendukung banyak sekali jenis input, dan untuk mengatur jenis input, kita harus mengubahnya menggunakan attribute. Ada beberapa attribute yang perlu kita ketahui di input:
+name, digunakan untuk memberi nama input, nama input harus unik dalam form yang sama, tidak boleh ada yang sama.
+type, digunakan untuk memilih jenis input, kita akan bahas lebih detail untuk jenis-jenis tipe input yang tersedia di HTML.
+value, digunakan untuk mengubah nilai default dari input.
+disabled, digunakan untuk menjadikan input tidak aktif.
+readonly, digunakan untuk menjadikan input tidak bisa diubah.
+required, digunakan untuk menandai bahwa input wajib diisi.
